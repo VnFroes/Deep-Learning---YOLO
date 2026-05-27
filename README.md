@@ -1,7 +1,8 @@
 # Automated PPE Safety Auditing using Computer Vision
 
 **Live Demo:** [Hugging Face Space - Automated PPE Audit](https://huggingface.co/spaces/EmLL00000/Automated_audit_through_detection_of_personal_protective_equipment_PPE_using_YOLO)
-**Dataset used: ** [PPE Dataset](https://www.kaggle.com/datasets/waquarahmed1/ppe-dataset)
+
+**Dataset used:** [PPE Dataset](https://www.kaggle.com/datasets/waquarahmed1/ppe-dataset)
 
 ## Project Overview
 This project implements a Proof of Concept (POC) for an Automated Auditing and Compliance Analysis system tailored for the construction industry. Rather than focusing on real-time video monitoring—which requires heavy infrastructure—this tool is designed to analyze static visual records of past events. The objective is to identify the presence or absence of Personal Protective Equipment (PPE) to support corrective actions, safety feedback, and targeted worker training.
@@ -47,7 +48,8 @@ The final model achieved robust convergence with zero signs of overfitting, yiel
 # Auditoria Automatizada de EPIs utilizando Visão Computacional
 
 **Demonstração Online:** [Hugging Face Space - Automated PPE Audit](https://huggingface.co/spaces/EmLL00000/Automated_audit_through_detection_of_personal_protective_equipment_PPE_using_YOLO)
-**Dataset usado: ** [PPE Dataset](https://www.kaggle.com/datasets/waquarahmed1/ppe-dataset)
+
+**Dataset usado:** [PPE Dataset](https://www.kaggle.com/datasets/waquarahmed1/ppe-dataset)
 
 ## Visão Geral do Projeto
 Este projeto implementa uma Prova de Conceito (POC) para um sistema de Auditoria Automatizada e Análise de Conformidade voltado para a construção civil. Em vez de focar em monitoramento de vídeo em tempo real — o que exige infraestrutura pesada —, esta ferramenta foi projetada para analisar registros visuais estáticos de eventos passados. O objetivo é identificar a presença ou ausência de Equipamentos de Proteção Individual (EPIs) para embasar ações corretivas, feedbacks de segurança e treinamentos direcionados.
