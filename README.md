@@ -10,7 +10,7 @@ This project implements a Proof of Concept (POC) for an Automated Auditing and C
 The system detects five classes of PPE: **Helmets, Masks, Safety Vests, Boots, and Gloves**.
 
 ## Technical Architecture
-*   **Core Model:** YOLO26n (Nano architecture)
+*   **Core Model:** YOLO26n
 *   **Frameworks:** PyTorch, Ultralytics
 *   **Image Processing:** OpenCV, NumPy
 *   **Deployment:** Gradio, Hugging Face Spaces
@@ -57,7 +57,7 @@ Este projeto implementa uma Prova de Conceito (POC) para um sistema de Auditoria
 O sistema detecta cinco classes de EPIs: **Capacetes, Máscaras, Coletes de Segurança, Botas e Luvas**.
 
 ## Arquitetura Técnica
-*   **Modelo Principal:** YOLO26n (Arquitetura Nano)
+*   **Modelo Principal:** YOLO26n
 *   **Frameworks:** PyTorch, Ultralytics
 *   **Processamento de Imagem:** OpenCV, NumPy
 *   **Deploy:** Gradio, Hugging Face Spaces
